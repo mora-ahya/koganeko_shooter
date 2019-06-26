@@ -1,1 +1,1 @@
-# koganeko_shooter2
+# koganeko_shooter
